@@ -16,11 +16,10 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path, include
-from .routers import router
-from django.views.generic.base import TemplateView
+# from .routers import router
 
 urlpatterns = [
     path('ideas/', include('ideas_frontend.urls')),
-    path('api-ideas/', include(router.urls)),
+    path('api-ideas/', include('ideas.urls')),
     path('admin/', admin.site.urls),
 ]

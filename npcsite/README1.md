@@ -27,3 +27,4 @@ Website for my thoughts.
  - is the the ability to understand multiple perspectives or to quickly drop one thought move to another then back to the furst thought a consequence of deep awareness or is it a capability that some brains have and others do not?
  - romantic relationships. i want someone who understands the world and themsleves. they have to know what they want. they have to be able to understand human wants
  - having a complete original thought means you have an understanding of what you are thinking about. the only to think about something new is to completely understand what is known (at least within the patricles thst interact with what is bring thought about)
+ - Why understand things at a fundamental level? The only way I can interact with the world with confidence is if I know as much as possible about what I am interacting with.

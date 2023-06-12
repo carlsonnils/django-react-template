@@ -72,7 +72,9 @@ ROOT_URLCONF = 'npcsite.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [], # TODO: input ideas app template dir
+        'DIRS': [
+            os.path.join(BASE_DIR,'ideas_frontend','templates','ideas_frontend'), # ideas page directory
+        ], 
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
